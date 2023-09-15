@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head>  
+<head> 
+<title>hehe</title>
+</head>
 <style>
 body {
   background-color: lightblue;
@@ -12,7 +14,6 @@ h1 {
   font-size: 60px;
 }
 </style>
-</head>
 <body>
 <h1>lop u</h1>
 
