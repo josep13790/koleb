@@ -5,19 +5,10 @@
 body {
   background-color: lightblue;
 }
-
-h1 {
-  color: black;
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
 </style>
 </head>
 <body>
-<h1>BUAT KAMU YANG CANTIK</h1>
+<h1 style="font-family:courier;">This is a paragraph.</h1>
+<h1 style="color:white;">This is a paragraph with blue text.</h1>
 </body>
 </html>
