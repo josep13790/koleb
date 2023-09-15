@@ -5,10 +5,17 @@
 body {
   background-color: lightblue;
 }
+h1 {
+  color: white;
+  text-align: center;
+  font-family: open sans;
+  font-size: 60px;
+}
 </style>
 </head>
 <body>
-<h1 style="font-family:courier;">This is a paragraph.</h1>
-<h1 style="color:white;">This is a paragraph with blue text.</h1>
+<h1>lop u</h1>
+
 </body>
 </html>
+
